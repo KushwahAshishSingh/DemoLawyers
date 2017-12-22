@@ -1,0 +1,11 @@
+/app/node_modules/
+/docs/
+/app/docs/
+*.log
+/web/static/build/
+/app/web/static/build/
+assets.json
+/app/assets.json
+/build/
+app/coverage
+node_modules

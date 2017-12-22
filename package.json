@@ -1,0 +1,19 @@
+{
+	"name": "lawyersdb",
+	"version": "1.0.0",
+	"description": "Database for RRT Clients",
+	"main": "index.js",
+	"scripts": {
+		"dev": "nodemon server.js"
+	},
+	"dependencies": {
+		"body-parser": "^1.18.2",
+		"express": "^4.16.2",
+		"mongodb": "^2.2.33"
+	},
+	"devDependencies": {
+		"nodemon": "^1.12.5"
+	},
+	"author": "Rajkumar Sharma",
+	"license": "ISC"
+}
