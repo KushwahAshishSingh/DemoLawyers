@@ -21,7 +21,7 @@
       <file leaf-file-name="lawyers_routes.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/routes/lawyers_routes.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="222">
+            <state relative-caret-position="6">
               <caret line="87" column="0" lean-forward="true" selection-start-line="87" selection-start-column="0" selection-end-line="87" selection-end-column="0" />
               <folding />
             </state>
@@ -267,12 +267,12 @@
       <workItem from="1515065598098" duration="249000" />
       <workItem from="1515065851870" duration="1535000" />
       <workItem from="1515067820864" duration="1042000" />
-      <workItem from="1515068869138" duration="6451000" />
+      <workItem from="1515068869138" duration="6663000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36826000" />
+    <option name="totallyTimeSpent" value="37038000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="623" extended-state="0" />
@@ -727,7 +727,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/routes/lawyers_routes.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
+        <state relative-caret-position="6">
           <caret line="87" column="0" lean-forward="true" selection-start-line="87" selection-start-column="0" selection-end-line="87" selection-end-column="0" />
           <folding />
         </state>
